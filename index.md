@@ -27,7 +27,7 @@ _Italic_
   </body>
 </html>
 ```
-
+日本語の追加
 
 You can use the [editor on GitHub](https://github.com/kabgoya/kabgoya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
