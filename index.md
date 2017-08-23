@@ -9,9 +9,9 @@
 - List2
 - List3
 
-1 List1
-2 List2
-3 List3
+1. List1
+2. List2
+3. List3
 
 **bold**
 _Italic_
